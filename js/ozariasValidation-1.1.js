@@ -1,5 +1,5 @@
 /**
- * Plugin ozariasValidation 1.0
+ * Plugin ozariasValidation 1.1
  *
  * Copyright(c) 2018, Rogério Ozarias
  * http://www.ozarias.com

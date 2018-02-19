@@ -6,7 +6,7 @@
  *
  * Validate forms with test and add functions 
  * @author Rogério de Ozarias
- * @version 1.0
+ * @version 1.1
  */
 (function($){
 $.fn.ozariasValidation = function(settings){           
